@@ -30,19 +30,17 @@
 
 #### 首页
 
-![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather1.png?raw=true)
+![avatar](https://github.com/NoelWtl/New/blob/master/gitImg/index1.png?raw=true)
 
-使用echarts插件：
+详情页：
 
-![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather2.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/loading.png?raw=true)
+![avatar](https://github.com/NoelWtl/New/blob/master/gitImg/detail.png?raw=true)![avatar](https://github.com/NoelWtl/New/blob/master/gitImg/detail1.png?raw=true)
 
-#### 选择城市查看天气情况
+#### 下拉刷新：
 
+![avatar](https://github.com/NoelWtl/New/blob/master/gitImg/shuaxin.png?raw=true)
 
+#### 瀑布流延迟加载。
 
-![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weatherchoose.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weatherchoose1.png?raw=true)
-
-#### 电影应用
-
-![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/video.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/video1.png?raw=true)
+![avatar](https://github.com/NoelWtl/New/blob/master/gitImg/loading.png?raw=true)
 
